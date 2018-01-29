@@ -66,7 +66,7 @@ They are in **data/** folder, and we also provide data pre-processor to convert 
 - **visual_speaker.py:**  speaker embedding visualization
 - **plot_confusion_matrix.py** 
 
-## Enviroment
+## Environment
 
 - Python 2.7
 - Pytorch 0.3.0+ with CUDA 8.0 / CPU
