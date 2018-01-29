@@ -1,4 +1,4 @@
-# Persona-Learning-Model
+# Generative-Discriminative-Persona-Classification-Model
 
 ## Quick Start
 
